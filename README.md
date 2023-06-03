@@ -1,8 +1,8 @@
 # ThreadedText :rocket:
 
-![Multithreaded Text Processing](https://media1.giphy.com/media/VL9Lf1Prtt0n6uiLXE/giphy.gif?cid=ecf05e47z7xwi81zfqneqslqef9i4823yii0p1lqvc8zq17a&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+![Multithreaded Text Processing](https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif?cid=ecf05e47rxxa9kxig85hm28bnelc8tfhodykenyfjvaqyvpc&ep=v1_stickers_search&rid=giphy.gif&ct=s)
 
-ThreadedText is a high-performance text processing toolkit that leverages multithreading to accelerate the processing and analysis of large text corpora.
+ThreadedText is a high-performance text processing program that leverages multithreading to accelerate the processing and analysis of large text corpora.
 
 ## Features
 
